@@ -1,0 +1,1 @@
+add_library(array INTERFACE array.hpp)

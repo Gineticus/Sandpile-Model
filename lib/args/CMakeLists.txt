@@ -1,0 +1,1 @@
+add_library(args STATIC args.cpp args.h)
